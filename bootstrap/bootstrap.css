@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+   border: solid;
+   background-color: black;
+   
+}
+.nav h1{
+    color: white;
+  
+    padding: 15px;
+    margin: 5px;
+    
+}
+.c{
+    margin: 5px;
+}
+button{
+    background-color: gray;
+}
+.a{
+    background-color: grey;
+}
+.s{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+margin-top: 20px;
+   
+}
